@@ -1,6 +1,8 @@
 ## CustomCatAndGrep
 Development of own versions of Bash text utilities: cat, grep.
 
+Tested on MacOS Big Sur 11.6.6.
+
 Made on June 15 2022 as part of my education in School 21 :)
 
 ## Introduction
